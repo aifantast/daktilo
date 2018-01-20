@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-subtitle: Tôi là ai?
+subtitle: Tôi là ai giữa cuộc đời này?
 permalink: /about/
 ---
 
