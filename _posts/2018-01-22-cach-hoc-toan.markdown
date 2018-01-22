@@ -29,7 +29,7 @@ Một điều nữa mà mình nhận thấy là, để học được môn toán
 Và đừng sợ toán cũng như những thứ bạn có thể đạt được.
 
 Ted
-## Tài liệu tham khảo
+# Tài liệu tham khảo
 
 Bộ giáo trình toán PFIEV - Jean-Marie Monier.<br/>
 [Algebra courses, Algebra basics, I, II - Khan Academy.](https://www.khanacademy.org/math)<br/>
