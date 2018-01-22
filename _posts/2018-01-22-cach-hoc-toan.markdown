@@ -7,6 +7,7 @@ categories: [cảm-nhận]
 permalink:
 cover:
 description:
+comments: true
 ---
 
 Các bài viết của mình sẽ trình bày thật rõ ràng và cố gắng giải thích các khái niệm theo cách của mình hiểu. Cũng như nhiều bạn, mình cảm thấy môn toán khá khó nhưng điều đó không có nghĩa là chúng ta không thể làm gì, chúng ta đã dành khá nhiều thời gian cho nó và thật là vô lí khi chúng ta không nhận được gì. Không biết các bạn như thế nào chứ, khi mới bắt đầu học toán ở chương trình đại học, mình tưởng học toán chắc là học ba cái tích phân, đạo hàm chi chi đó thôi. Ai ngờ, mới bắt đầu mình học về tập hợp,lúc đầu mình tưởng học mấy cái tập hợp ni dễ thôi mà, cười được vài hôm, sau khi chủ quan được vài buổi thì mới phát hiện ra học toàn mấy cái lạ hoắc á (đồng cấu, nhóm, vành, thể, trường,...). Cảm nhận lúc đó rất là khó tả, khi bắt đầu tìm hiểu toán, cụ thể là Đại số thì nó như mê cung vậy, hàng loạt định nghĩa, tính chất và hệ quả mới sinh ra, cộng với việc tốc độ giảng bài trên lớp của mình khá nhanh, nên mình không thể theo kịp được.
