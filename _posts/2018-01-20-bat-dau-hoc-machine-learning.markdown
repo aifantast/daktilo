@@ -5,8 +5,9 @@ subtitle: "Hành trình bắt đầu như thế nào?"
 date:   2018-01-19
 categories: [cảm-nhận]
 permalink:
-cover: /assets/images/sample-post.png
-description: Just a sample post to show some of the *typography* elements supported from Daktilo theme.
+cover: 
+description: 
+comments: true
 ---
 Nói thật là khi bước vào ngưỡng cửa đại học, mình cũng như nhiều sinh viên khác, còn khá mơ hồ về những gì mình sẽ được học và những gì mình sẽ làm trong tương lai. Bản thân mình trước khi vào đại học đã xác định sẽ làm cái gì đó về "Công nghệ thông tin", nhưng "Công nghệ thông tin" là một lĩnh vực khá rộng, lúc đó mình như lạc giữa một rừng thông tin vậy. Mình bắt đầu học về lập trình, Java, Javascript, web, android, full stack, ... nói chung là mình tìm hiểu rất nhiều thứ nhưng chẳng có thứ gì là đủ sâu cả.
 
