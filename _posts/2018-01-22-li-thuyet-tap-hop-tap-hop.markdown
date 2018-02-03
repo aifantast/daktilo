@@ -181,6 +181,8 @@ Tích Descartes cho n tập hợp: $$E_1 \times E_2 \times ... \times E_n = \{(x
 Vậy tại sao lại tụi mình lại cần định nghĩa về cặp và tích Descartes? Do hai khái niệm đó sẽ giúp tụi mình hiểu được khái niệm về quan hệ, sau đó là hàm và ánh xạ. Đây là những khái niệm quan trọng và cũng là những khái niệm hay bị thầy cô "hỏi lại" nhiều nhất =)).
 
 <br/>
+Ted
+<br/>
 # Tham khảo
 
 Đại số 1 - Jean-Marie Monier <br/>
