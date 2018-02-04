@@ -94,7 +94,7 @@ Một trong những ứng dụng của tiên đề trên là: Chứng minh khôn
 <br/>
 # Hợp, Giao, Hiệu của các tập hợp
 
-  Ở mục này, ta cho các tập hợp $A,B \in \mathfrak{P}(E)$ . Tập hợp $E$ được coi là tập hợp lớn nhất, tập hợp chứa tất cả các tập hợp. Rõ ràng quy ước này mâu thuẫn với tiên đề trên như sẽ chấp nhận để dễ dàng làm việc với các tập hợp ở mục này, cũng như ở các bài viết sau. Từ tiên đề về sự định rõ, ta có thể định nghĩa được hợp, giao, hiệu của hai tập hợp, lưu ý rằng hợp, giao, hiệu của hai tập hợp vẫn là một tập hợp. <br />
+  Ở mục này, ta cho các tập hợp $A,B \in \mathfrak{P}(E)$ . Tập hợp $E$ được coi là tập hợp lớn nhất, tập hợp chứa tất cả các tập hợp. Rõ ràng quy ước này mâu thuẫn với tiên đề trên nhưng sẽ chấp nhận để dễ dàng làm việc với các tập hợp ở mục này, cũng như ở các bài viết sau. Từ tiên đề về sự định rõ, ta có thể định nghĩa được hợp, giao, hiệu của hai tập hợp, lưu ý rằng hợp, giao, hiệu của hai tập hợp vẫn là một tập hợp. <br />
 
   <strong>Hợp của A và B</strong> &emsp; $$A \cup B = \{x \in E : x \in A \vee x \in B \} $$ <br />
   <strong>Giao của A và B</strong> &emsp; $$A \cap B = \{x \in E : x \in A \wedge x \in B \} $$ <br />
