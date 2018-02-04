@@ -376,7 +376,7 @@ Ted
 # Tham khảo
 
 [Relations and their types - geeksforgeeks.org](https://www.geeksforgeeks.org/relations-and-their-types/)<br/>
-[Equivalence relation - Wikipedia](https://en.wikipedia.org/wiki/Equivalence_relation)br/>
+[Equivalence relation - Wikipedia](https://en.wikipedia.org/wiki/Equivalence_relation)<br/>
 [Equivalence class - Wikipedia](https://en.wikipedia.org/wiki/Equivalence_class)<br/>
 [Order relation - Old Dominion University](http://www.cs.odu.edu/~cs381/cs381content/relation/order/order.html)<br/>
 [Maximal and minimal elements - Wikipedia](https://en.wikipedia.org/wiki/Maximal_and_minimal_elements)<br/>
