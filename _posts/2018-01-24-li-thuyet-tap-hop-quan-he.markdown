@@ -82,8 +82,10 @@ Vậy là tụi mình đã biết được $$x$$ có quan hệ với $$y$$, vậ
 $$E,F$$ là hai tập hợp, $$\mathcal{R}$$ là một quan hệ từ $$E$$ đến $$F$$. Quan hệ ngược của $$\mathcal{R}$$, kí hiệu $$\mathcal{R}^{-1}$$, là quan hệ từ $$F$$ đến $$E$$, được định nghĩa bởi:
 > $$\forall (x,y) \in E \times F, y \mathcal{R}^{-1} x \Leftrightarrow x\mathcal{R}y$$
 
+Định nghĩa trên có nghĩa là gì? Kí hiệu $$\Leftrightarrow$$ ở đây chỉ phép toán logic "tương đương". Mệnh đề $$A \Leftrightarrow B $$ là đúng khi hai mệnh đề A,B cùng đúng hoặc cùng sai. Ở đây, $$ y \mathcal{R}^{-1} x \Leftrightarrow x\mathcal{R}y $$ có nghĩa là khi  $$ y \mathcal{R}^{-1} x $$ đúng, mà khi nào thì $$ y \mathcal{R}^{-1} x $$ đúng? Đó là khi cặp $$(y,x)$$ thuộc đồ thị của $$\mathcal{R}^{-1}$$. Khi  $$ y \mathcal{R}^{-1} x $$ đúng thì $$ x\mathcal{R}y $$ đúng điều này có nghĩa là $$(x,y)$$ thuộc đồ thị của $$\mathcal{R}$$. Vậy tóm gọn lại là $$ y \mathcal{R}^{-1} x \Leftrightarrow x\mathcal{R}y$$ có nghĩa khi tụi mình có quan hệ $$x\mathcal{R}y$$ thì cặp $$(y,x)$$ thuộc đồ thị của $$\mathcal{R}^{-1}$$ sẽ cho tụi mình định nghĩa về quan hệ $$\mathcal{R}^{-1}.
 
-Ví dụ: '<' là quan hệ 2 ngôi ngược với quan hệ '>' trong $$\mathbb{N}$$. <br/>
+<br/>
+**Ví dụ** '<' là quan hệ 2 ngôi ngược với quan hệ '>' trong $$\mathbb{N}$$. <br/>
 Quan hệ có $$\Gamma = \{(1,A), (2,B), (3,C)\}$$ là quan hệ ngược đối với quan hệ có $$\Gamma=\{(A,1), (B,2), (C,3)\}$$ với E là tập hợp chữ số, F là tập hợp chữ cái. <br/>
 
 **Chú ý:** Với mỗi quan hệ bất kì, sẽ luôn tồn tại quan hệ ngược đối với nó.
