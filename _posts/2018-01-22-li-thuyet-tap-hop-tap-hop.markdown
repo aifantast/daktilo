@@ -38,7 +38,7 @@ Theo như mình thấy, nhiều bạn và kể cả bản thân mình có một 
 
 >Tập hợp là một khái niệm nguyên thuỷ và không có định nghĩa về nó
 
-Bắt tay vào tìm hiểu nào. Tụi mình không có định nghĩa về tập hợp mà chỉ có thể mô tả nó và xây dựng khái niệm tập hợp dựa trên một hệ các tiên đề, các bạn có thể tham khảo ở cuối bài. Một trong những khái niệm ban đầu của tập hợp mà tụi mình cần công nhận là _sự thuộc về_. Ta sẽ hiểu một tập hợp được tạo thành từ những thành phần riêng lẽ khác. Các thành phần riêng lẻ đó sẽ được gọi là _phần tử_ của tập hợp. Các phần tử của tập hợp sẽ được kí hiệu bằng các chữ cái in thường: a, b, x, y, ... và kí hiệu tập hợp bằng những chữ cái in hoa: A, B, C ...
+Bắt tay vào tìm hiểu nào. Tụi mình không có định nghĩa về tập hợp mà chỉ có thể mô tả nó và xây dựng khái niệm tập hợp dựa trên một hệ các tiên đề, các bạn có thể tham khảo ở cuối bài. Một trong những khái niệm ban đầu của tập hợp mà tụi mình cần công nhận là _sự thuộc về_. Ta sẽ hiểu một tập hợp được tạo thành từ những thành phần riêng lẻ khác. Các thành phần riêng lẻ đó sẽ được gọi là _phần tử_ của tập hợp. Các phần tử của tập hợp sẽ được kí hiệu bằng các chữ cái in thường: a, b, x, y, ... và kí hiệu tập hợp bằng những chữ cái in hoa: A, B, C ...
 
 Khi đó quan hệ thuộc về, "x là phần tử của A hay x thuộc A" sẽ được biểu diễn là: $$x \in A $$. Ngược lại, nếu "x không thuộc A" sẽ kí hiệu là $$x \notin A $$.
 
@@ -47,7 +47,7 @@ Tập hợp không có phần tử nào sẽ là tập hợp rỗng. Kí hiệu:
 <br/>
 #  Quan hệ bao hàm
 
-_Cho hai tập hợp $E,\, F $. $E$ bao hàm trong $F$ khi và chỉ tất cả những phần tử thuộc $E$ đều thuộc $F$. <br />
+_Cho hai tập hợp $E,\, F $. $E$ bao hàm trong $F$ khi và chỉ khi tất cả những phần tử thuộc $E$ đều thuộc $F$. <br />
 Khi đó kí hiệu $ E \subset F $_
 
 >$ E \subset F \Leftrightarrow \forall x \in E, x \in F $
