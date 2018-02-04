@@ -12,13 +12,13 @@ mathjax: true
 
 # Mục tiêu
 
-- ### Quan hệ, quan hệ hai ngôi là gì?
+- ### Quan hệ hai ngôi, quan hệ hai ngôi đồng nhất là gì?
 - ### Quan hệ ngược
 - ### Các tính chất có thể có của quan hệ hai ngôi
 - ### Hợp hai quan hệ
 
 <br/>
-Đây đây tới cái phần hồi trước mình bắt đầu "xoắn não" đây =)). Quay lại về khái niệm tập hợp ở trên, khi nhất đến tập hợp là tụi mình mới với về khái niệm "gom cái gì đó vào một chỗ", để "làm được gì đó" với tập hợp ta vẫn cần phải một _vài thứ khác_. Và đây khái niệm cơ bản khi học về cơ sở dữ liệu sau này.  Như ở bài trước, tụi mình đã định nghĩa về _quan hệ bao hàm_ nhưng chưa có gì đã định nghĩa về _Quan hệ_ cả. Do đó trong phần này tụi mình sẽ tìm hiểu về _quan hệ_, và chủ yếu là _quan hệ hai ngôi_. Tại sao gọi là _quan hệ hai ngôi_? =)) đơn giản là quan hệ giữa hai vật nào đó. Nhưng mình đã nói từ tập hợp chúng ta sẽ có được nhiều thứ, và bây giờ tụi mình sẽ xây dựng _quan hệ hai ngôi_ từ thứ tụi mình đang có: Tập hợp.
+Đây đây tới cái phần hồi trước mình bắt đầu "xoắn não" đây =)). Quay lại về khái niệm tập hợp ở trên, khi nhắc đến tập hợp là tụi mình mới với về khái niệm "gom cái gì đó vào một chỗ", để "làm được gì đó" với tập hợp ta vẫn cần phải một _vài thứ khác_. Và đây khái niệm cơ bản khi học về cơ sở dữ liệu sau này.  Như ở bài trước, tụi mình đã định nghĩa về _quan hệ bao hàm_ nhưng chưa có gì đã định nghĩa về _Quan hệ_ cả. Do đó trong phần này tụi mình sẽ tìm hiểu về _quan hệ_, và chủ yếu là _quan hệ hai ngôi_. Tại sao gọi là _quan hệ hai ngôi_? =)) đơn giản là quan hệ giữa hai vật nào đó. Nhưng mình đã nói từ tập hợp chúng ta sẽ có được nhiều thứ, và bây giờ tụi mình sẽ xây dựng _quan hệ hai ngôi_ từ thứ tụi mình đang có: Tập hợp.
 
 # Quan hệ (hai ngôi) là gì?
 
