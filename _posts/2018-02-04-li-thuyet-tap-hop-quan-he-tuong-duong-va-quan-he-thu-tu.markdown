@@ -243,10 +243,10 @@ Tập hợp các chặn trên của $$A$$ trong $$E$$ là $$Maj_E(A)$$. Tập h�
 
 <br/>
 **Ví dụ**
-- Coi Việt Nam là một hợp con trên Trái Đất. Chỉ xét theo chiều từ Bắc đến Nam thì những điểm có vĩ độ lớn hơn Lũng Cú (cực bắc Việt Nam) là chặn trên của Việt Nam. Những điểm ở thấp hơn về phía Nam đối với Mũi Cà Mau (cực Nam Việt Nam) là chặn dưới của Việt Nam.
+- Coi Việt Nam là một hợp con trên Trái Đất. Chỉ xét theo chiều từ Bắc đến Nam thì những điểm có vĩ độ lớn hơn hoặc bằng tại Lũng Cú (cực bắc Việt Nam) là chặn trên của Việt Nam. Những điểm ở thấp hơn hoặc bằng về phía Nam đối với Mũi Cà Mau (cực Nam Việt Nam) là chặn dưới của Việt Nam.
 
 <br/>
-- Đặt một tờ giấy trên mặt bàn, coi tờ giấy là một tập hợp con của mặt bàn, xét quan hệ thứ tự dọc theo chiều dài tờ giấy, thì cận trên của tờ giấy là tất cả các điểm "nằm trên" mép trên của tờ giấy, cận dưới của tờ giấy là tất cả các điểm "nằm dưới" mép dưới tờ giấy.
+- Đặt một tờ giấy trên mặt bàn, coi tờ giấy là một tập hợp con của mặt bàn, xét quan hệ thứ tự dọc theo chiều dài tờ giấy, thì cận trên của tờ giấy là tất cả các điểm "nằm trên hoặc ở ngay" mép trên của tờ giấy, cận dưới của tờ giấy là tất cả các điểm "nằm dưới hoặc ở ngay" mép dưới tờ giấy.
 
 <br/>
 - Xét một hàng người như hình vẽ, xét quan hệ thứ tự từ phải sang trái, tập hợp gồm có {A,B,C,D} là tập con của hàng người trên. Tập hợp này có cận trên là A, và cận dưới là tất cả những người xếp sau D. (Cái hình chữ nhật coi như cái bàn thu ngân, vẽ thêm cho đẹp thôi nhé.)
