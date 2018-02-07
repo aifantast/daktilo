@@ -283,6 +283,6 @@ Elements of Set Theory - Herbert B. Enderton<br/>
 [Functions or Mapping - math-only-math.com](http://www.math-only-math.com/functions-or-mapping.html)<br/>
 [Functions in real world - educationworld.com](http://www.educationworld.com/a_curr/mathchat/mathchat010.shtml)<br/>
 [Examples On One To One Function Or Injection - We teach Academy Math - Youtube Chanel](Examples On One To One Function Or Injection )<br/>
-[Injective, Surjective and Bijective - mathisfun.com](https://www.mathsisfun.com/sets/injective-surjective-bijective.html)
-[What is the practical benefit of a function being injective? surjective? - math.stackexchange.com](https://math.stackexchange.com/questions/178796/what-is-the-practical-benefit-of-a-function-being-injective-surjective)
+[Injective, Surjective and Bijective - mathisfun.com](https://www.mathsisfun.com/sets/injective-surjective-bijective.html)<br/>
+[What is the practical benefit of a function being injective? surjective? - math.stackexchange.com](https://math.stackexchange.com/questions/178796/what-is-the-practical-benefit-of-a-function-being-injective-surjective)<br/>
 [Surjective (onto) and injective (one-to-one) functions - Khan Academy](https://www.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-transformations/v/surjective-onto-and-injective-one-to-one-functions)
