@@ -263,7 +263,7 @@ $$x \,f \circ f^{-1}\, x' \Leftrightarrow \exists y \in F, \begin{cases}  x \, f
 
 Song ánh là một ánh xạ quan trọng vì tính chất có ánh xạ ngược của nó.
 
-- Hàm $$y = f(x)$$ trên $$\mathbb{R}$$ là một song ánh.
+- Hàm $$f(x) = x$$ trên $$\mathbb{R}$$ là một song ánh.
 
 - Quan hệ giữa bạn và ảnh của bạn qua gương là song ánh.
 
