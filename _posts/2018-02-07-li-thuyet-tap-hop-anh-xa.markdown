@@ -36,7 +36,7 @@ Tụi mình có thể thay đổi qua lại giữa hai kí hiệu $$x \, f \, y$
 Tập hợp xác định là tập hợp các phần tử $$x \in E$$ sao cho $$x$$ có quan hệ $$f$$ với phần tử $$y \in F$$. Kí hiệu là $$Def(f)$$. Khi đó $$x$$ được gọi là tạo ảnh của $$y$$ và $$y$$ được gọi là ảnh của $$f$$.
 
 ## Ánh xạ
-> Ánh xạ $$f$$ từ $$E$$ đến $$F$$ là một hàm từ $$E$$ đến $$F$$ có $$Def(f)$$
+> Ánh xạ $$f$$ từ $$E$$ đến $$F$$ là một hàm từ $$E$$ đến $$F$$ có $$Def(f)=E$$
 
 Tập hợp các ánh xạ từ $$E$$ vào $$F$$ sẽ được kí hiệu là $$F^E$$.<br/>
 Hai ánh xạ $$f,g$$ bằng nhau khi có cùng tập nguồn và tập đích và $$\forall x \in E, f(x) = g(x)$$.
