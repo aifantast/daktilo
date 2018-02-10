@@ -1240,7 +1240,7 @@ Tụi mình cần khái niệm về ánh xạ cảm sinh, vì trong một số t
 
 ## Ánh xạ có tính ổn định trong một bộ phận
 Ánh xạ $$f : E \rightarrow E$$ ổn định trong một bộ phận $$A$$ của $$E$$ khi và chỉ khi:
-> \forall x \in A, f(x) \in A
+> ## $$\forall x \in A, f(x) \in A$$
 
 Trên thực tế, tụi mình thường làm việc trên một tập con của một tập hợp, để đảm bảo một ánh xạ trên toàn bộ tập hợp có thể làm việc "trơn tru", không có lỗi trên tập con, thì tập con phải chứa tất cả các "kết quả" có thể có của ánh xạ. Như các bạn có thể để ý thì ánh xạ $$\underset{ x \rightarrow f(x)}{A \rightarrow A}$$ là một ánh xạ cảm sinh trên A.
 
