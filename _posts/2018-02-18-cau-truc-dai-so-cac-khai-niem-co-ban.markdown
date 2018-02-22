@@ -58,6 +58,8 @@ Và tại sao gọi lúc thì gọi là phép toán, lúc thì gọi là luật.
 
 
 ### Tính chất có thể có của luật hợp thành trong
+#### Tính ổn định - Tính đóng
+> Một luật hợp thành trong $$* $$ trên $$E$$ có tính ổn định trên một tập con $$A$$ của E khi và chỉ khi $$\forall (x,y) \in A^2, x*y \in A$$
 
 #### Tính kết hợp
 > Một luật hợp thành trong $$* $$ trên  $$E$$ có tính kết hợp khi và chỉ khi $$\forall (x,y,z) \in E^3, (x*y)* z = x * (y * z)$$.
