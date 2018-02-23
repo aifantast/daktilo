@@ -52,7 +52,7 @@ Tồn tại $$e$$ thuộc $$E$$ sao cho $$e$$ là phần tử trung hoà đối 
 
 **Tính có phần tử khả nghịch**<br/>
 MỌI phần tử thuộc $$E$$ đều khả nghịch đối với $$* $$. Phần tử y thuộc $$E$$ sao cho $$x \in E: x*y = e$$ thì y gọi là phần tử nghịch đảo của $$x$$ đối với $$* $$.<br/>
-Tụi mình sẽ kí hiệu phần tử của $$x$$ là $$x^{-1}$$.
+Tụi mình sẽ kí hiệu phần tử nghịch đảocủa $$x$$ là $$x^{-1}$$. Các bạn phân biệt phần tử nghịch đảo và phần tử có quan hệ ngược nhé.
 
 Nhưng tại sao tụi mình lại cần các tính chất này? Tụi mình có thể xem một video trên kênh Socratica - Youtube để hiểu được lí do. Socratica cung cấp một series khá hay về Đại số trừu tượng (Abstract Algebra), các bạn có thể tham khảo.
 
