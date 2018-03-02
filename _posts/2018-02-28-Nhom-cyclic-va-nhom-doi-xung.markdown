@@ -171,6 +171,7 @@ Ted
 
 Đại số 1 - Jean-Marie Monier<br/>
 Giáo trình Toán - Thầy Bùi Tuấn Khang<br/>
+Abstract Algebra - David S. Dummit, Richard M. Foote <br/>
 [Generating set of a group - Wikipedia](https://en.wikipedia.org/wiki/Generating_set_of_a_group)<br/>
 [Finitely Generated Group - Grouprops](https://groupprops.subwiki.org/wiki/Finitely_generated_group)<br/>
 [Cyclic Group - Wikipedia](https://en.wikipedia.org/wiki/Cyclic_group)<br/>
