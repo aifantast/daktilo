@@ -95,7 +95,7 @@ Tiếp đến một khái niệm "khá khó chịu" đó là Ideal của vành g
 
 ## Ideal của một vành giao hoán
 Cho $$(A,+, .)$$ là một vành giao hoán, $$I$$ là một tập con khác rỗng của $$A$$.
-> $$I$$ là một ideal của $$A$$ khi và chỉ khi: $$\begin{cases} I \,\, \text{là một nhóm con giao hoán của nhóm giao hoán}\,\, (A,+)\\ \forall a \in A, \forall x \in I,\quad ax \in I \end{cases}$$
+> $$I$$ là một ideal của $$A$$ khi và chỉ khi: $$\begin{cases} + \,\, \text{có tính đóng trong I}\\ \forall a \in A, \forall x \in I,\quad ax \in I \end{cases}$$
 
 Để tìm hiểu về ideal, tụi mình xét một phần tử $$x \in I$$, thì suy ra $$ax \in I$$, điều này có nghĩa là $$I$$ chứa mọi phần tử "chia hết cho" $$x$$. Chú ý là không phải tất cả phần tử thuộc $$I$$ đều chia hết cho $$x$$.
 
