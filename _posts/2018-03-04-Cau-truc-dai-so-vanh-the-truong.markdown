@@ -117,7 +117,7 @@ Hoặc tụi mình cũng thể nhớ một cách ngắn gọi là vành thì t�
 
 Hoặc là tụi mình cũng thể nhớ theo công thức là trường = 2 nhóm giao hoán, thể = trường - 1 giao hoán, vành = thể - 1 khả nghịch. Các bạn chú ý nhé, trường chỉ là một tập hợp, việc nói hai nhóm giao hoán ở đây có nghĩa nó là nhóm giao hoán đối với hai phép toán.
 
-Tạm ổn rồi, hẹn các bạn ở bài viết sau.
+Tạm ổn rồi, hẹn các bạn ở bài viết sau nhé.
 
 > Il vaut mieux faire que dire - Alfred de Musset
 
