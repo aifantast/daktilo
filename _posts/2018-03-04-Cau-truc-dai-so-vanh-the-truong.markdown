@@ -129,9 +129,9 @@ Ted
 
 Đại số 1 - Jean-Marie Monier<br/>
 Giáo trình Toán - Thầy Bùi Tuấn Khang<br/>
-[Ring - Wikipedia](https://en.wikipedia.org/wiki/Ring_(mathematics)<br/>
-[Field - Wikipedia](https://en.wikipedia.org/wiki/Field_(mathematics)<br/>
-[Ideal - Wikipedia](https://en.wikipedia.org/wiki/Ideal_(ring_theory)<br/>
+[Ring - Wikipedia](https://en.wikipedia.org/wiki/Ring_(mathematics))<br/>
+[Field - Wikipedia](https://en.wikipedia.org/wiki/Field_(mathematics))<br/>
+[Ideal - Wikipedia](https://en.wikipedia.org/wiki/Ideal_(ring_theory))<br/>
 Abstract Algebra - Socratica Chanel<br/>
 Abstract Algebra, an inquiry-based approach - J.K.Hodge, S.Schlicker, T.Sundstrom<br/>
 Abstract Algebra - Dummit, Foote
