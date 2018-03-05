@@ -120,6 +120,8 @@ Các cùng xem video này của Socratica để có thể hình dung được c�
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/ozwodzD5bJM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
 
+Ok, vậy không gian vector là một cấu trúc đại số có 1 luật trong và 1 luật ngoài. Tụi mình luôn cần phải nhớ là không gian vector cùng với những cấu trúc như vành, thể, trường đều là một nhóm, và thực ra chỉ là tập hợp mà thôi nên không gì cao siêu cả. 
+
 Bài viết cũng đã dài rồi, mình kết thúc ở đây nhé. Mong các bạn cảm thấy dễ dàng khi học toán sau khi đọc bài viết của mình.
 
 > Vouloir c’est pouvoir
