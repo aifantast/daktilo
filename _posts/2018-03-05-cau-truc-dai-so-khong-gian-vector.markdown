@@ -18,7 +18,7 @@ mathjax: true
 - ### Không gian vector
 
 
-Tụi mình đã tìm hiểu về nhóm, vành, thể và trường. Wah, nhiều quá nhỉ. Có thấy nhiều không? Điều này chứng tở tụi mình đã biết được rất nhiều thứ đúng không nào? Mình chỉ muốn nhắc lại các cấu trúc đại số tụi mình đã tìm hiểu và sắp tìm hiểu đều chỉ là tập hợp được thêm vào các phép toán. Và không gian vector là một cấu trúc đại số, do đó không gian vector cũng chỉ là tập hợp, những gì mà tụi mình quần đi quần lại mấy bài viết nay chỉ có tập hợp thôi nhé. Và trước khi tìm hiểu về không gian vector, sẽ là cần thiết khi tụi mình biết được vector là gì nhỉ?
+Tụi mình đã tìm hiểu về nhóm, vành, thể và trường. Wah, nhiều quá nhỉ. Các bạn có thấy nhiều không? Điều này chứng t tụi mình đã biết được rất nhiều thứ đúng không nào? Mình chỉ muốn nhắc lại các cấu trúc đại số tụi mình đã tìm hiểu và sắp tìm hiểu đều chỉ là tập hợp được thêm vào các phép toán. Và không gian vector là một cấu trúc đại số, do đó không gian vector cũng chỉ là tập hợp, những gì mà tụi mình quần đi quần lại mấy bài viết nay chỉ có tập hợp thôi nhé. Và trước khi tìm hiểu về không gian vector, sẽ là cần thiết khi tụi mình biết được vector là gì nhỉ?
 
 # Vector là gì?
 
