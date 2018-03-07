@@ -71,7 +71,7 @@ a.
 
 $$* $$ có tính kết hợp $$\Rightarrow f, g, h \in E^X, \forall x \in X, f(x)* (g(x) * h(x)) = (f(x)* g(x))* h(x)$$
 
-### $$\forall (f,g,h) \in (E^X)^3, f \diamond (g \diamond f) \Leftrightarrow \forall x \in X, (f \diamond (g \diamond f)) (x)=f(x)* (g \diamond h)(x) $$
+### $$\forall (f,g,h) \in (E^X)^3, f \diamond (g \diamond h) \Leftrightarrow \forall x \in X, (f \diamond (g \diamond )) (x)=f(x)* (g \diamond h)(x) $$
 
 $$= f(x)* (g(x) * h(x)) = (f(x)* g(x))* h(x) = (f\diamond g)(x)* h(x) = ((f \diamond g) \diamond h)(x)$$.
 
