@@ -1,4 +1,4 @@
----
+
 layout: post
 title:  "Bắt đầu học Machine Learning"
 subtitle: "Hành trình bắt đầu như thế nào?"
@@ -8,7 +8,7 @@ permalink:
 cover: 
 description: 
 comments: true
----
+
 Nói thật là khi bước vào ngưỡng cửa đại học, mình cũng như nhiều sinh viên khác, còn khá mơ hồ về những gì mình sẽ được học và những gì mình sẽ làm trong tương lai. Bản thân mình trước khi vào đại học đã xác định sẽ làm cái gì đó về "Công nghệ thông tin", nhưng "Công nghệ thông tin" là một lĩnh vực khá rộng, lúc đó mình như lạc giữa một rừng thông tin vậy. Mình bắt đầu học về lập trình, Java, Javascript, web, android, full stack, ... nói chung là mình tìm hiểu rất nhiều thứ nhưng chẳng có thứ gì là đủ sâu cả.
 
 Lúc đó, mình luôn phân vân là nên làm web hay làm về ứng dụng di động, vì mình nghĩ hướng đi đó sẽ có nhiều cơ hội việc làm và mức lương cũng khá cao, sau khi biết đến khái niệm "full stack developper", nghe cũng hay vì mình không còn phải đắn đo phải học cái gì, do đó mình đã quyết định học cả web và ứng dụng di động. Nhưng quyết định đó dường như làm mình kiệt sức vậy. Quá nhiều thứ để học, trong khi chương trình học ở đại học của mình cũng khá nặng khi so với các chương trình khác, quá nhiều đêm mình phải thức khuya và năng lượng của mình dần bị bào mòn. Rồi cũng đến thời điểm mình chợt nhận ra mình học "công nghệ thông tin" là để làm gì? Kể cho các bạn chuyện này, mình vốn không giỏi ở môn Giáo dục thể chất, năm nhất mình học nhảy cao, dù có thử nhiều lần thì ở xà mức 1,28 m mình cũng không qua nổi, cho đến một ngày không biết hên sao lại qua được, đầu mình đập xuống đệm có một cảm giác gì đó thật nhẹ nhàng, mình được học là khi bật nhảy phải dồn hết sức vào chân dậm làm mình suy nghĩ về tình cảnh của mình lúc đó. Liệu mình có đang quá vội vàng mà trong lập trình mà quên học những kiến thức căn bản, có phải mình đã quá phân tâm vào những thứ nhỏ nhặt và không tập trung vào những điều quan trọng hơn và mục đích của mình khi nghiên cứu vào những thứ đó là gì?
