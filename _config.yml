@@ -1,5 +1,5 @@
 # Site settings
-title: Black Hoodies
+title: blackhoodies
 description: >
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -10,8 +10,8 @@ url: "blackhoodies.github.io" # the base hostname & protocol for your site
 
 author:
   fullname: blackhoodies
-  googleplus:
-  github: tedai
+  googleplus: phunghuutai421998@gmail.com
+  github: blackhoodies
   twitter: 
   # disqus: your_disqus_forum_shortname
 
